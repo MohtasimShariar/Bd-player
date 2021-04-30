@@ -10,11 +10,11 @@ const Header = () => {
                 <img  src={logo} alt=""/>
             </div>
             <div>
-            <nav>
-                <a href="/player">PLayer</a>
-                <a href="/teams">Teams</a>
-                <a href="/live-scores">Live Scores</a>
-            </nav>
+                 <nav>
+                     <a href="/player">PLayer</a>
+                      <a href="/teams">Teams</a>
+                      <a href="/live-scores">Live Scores</a>
+                 </nav>
             </div>
             
         </div>

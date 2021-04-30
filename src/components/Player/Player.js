@@ -2,7 +2,6 @@ import React, {useState,useEffect} from 'react';
 import playerData from '../../player.json';
 import Cart from '../Cart/Cart';
 import Details from '../Details/Details';
-
 import './PLayer.css';
 
 
